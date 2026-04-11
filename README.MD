@@ -22,6 +22,10 @@ CSE student
 ---
 [![](https://visitcount.itsvg.in/api?id=tomato9553-bit&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tomato9553-bit&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <b>My GitHub Stats</b>
