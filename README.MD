@@ -5,7 +5,7 @@ CSE student
 -----------
 
 * ✉️  You can contact me at [tomato9553@gmail.com](mailto:tomato9553@gmail.com)
-* 🧠  I'm currently learning elixir,
+* 🧠  I'm currently learning elixir
 * 👥  I'm looking to collaborate on Resourceful projects
 
 <p align="left">
