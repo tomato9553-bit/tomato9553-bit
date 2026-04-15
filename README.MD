@@ -5,7 +5,7 @@ CSE student
 -----------
 
 * ✉️  You can contact me at [tomato9553@gmail.com](mailto:tomato9553@gmail.com)
-* 👥  I'm looking to collaborate on Resourceful projects
+* 👥  I'm looking to collaborate on Resourceful python projects
 
 ### Skills
 <p align="left">
